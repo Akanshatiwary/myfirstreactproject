@@ -1,0 +1,24 @@
+.image_list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.image_list img{
+  width: 40%;
+  margin: 30px;
+}
+body{
+  background-color: darksalmon;
+}
+.ui .segment:first-child{
+  margin-top: 20px;
+  background-color: antiquewhite;
+}
+.ui.form .field>label {
+  font-size: 20px;
+  font-weight:400;
+}
+input{
+  font-size: 14px;
+  text-transform: capitalize;
+}
