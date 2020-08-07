@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akanshatiwary/myfirstreactproject/static/css/main.4600ba9d.chunk.css",
+    "main.js": "/Akanshatiwary/myfirstreactproject/static/js/main.cb879b85.chunk.js",
+    "main.js.map": "/Akanshatiwary/myfirstreactproject/static/js/main.cb879b85.chunk.js.map",
+    "runtime-main.js": "/Akanshatiwary/myfirstreactproject/static/js/runtime-main.dc3c25a6.js",
+    "runtime-main.js.map": "/Akanshatiwary/myfirstreactproject/static/js/runtime-main.dc3c25a6.js.map",
+    "static/js/2.953187bd.chunk.js": "/Akanshatiwary/myfirstreactproject/static/js/2.953187bd.chunk.js",
+    "static/js/2.953187bd.chunk.js.map": "/Akanshatiwary/myfirstreactproject/static/js/2.953187bd.chunk.js.map",
+    "index.html": "/Akanshatiwary/myfirstreactproject/index.html",
+    "precache-manifest.408edc02ebb61277961b7c5735082e96.js": "/Akanshatiwary/myfirstreactproject/precache-manifest.408edc02ebb61277961b7c5735082e96.js",
+    "service-worker.js": "/Akanshatiwary/myfirstreactproject/service-worker.js",
+    "static/css/main.4600ba9d.chunk.css.map": "/Akanshatiwary/myfirstreactproject/static/css/main.4600ba9d.chunk.css.map",
+    "static/js/2.953187bd.chunk.js.LICENSE.txt": "/Akanshatiwary/myfirstreactproject/static/js/2.953187bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc3c25a6.js",
+    "static/js/2.953187bd.chunk.js",
+    "static/css/main.4600ba9d.chunk.css",
+    "static/js/main.cb879b85.chunk.js"
+  ]
+}
